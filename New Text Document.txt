@@ -1,0 +1,4 @@
+استخدمنا مكتبة اسمها typed.js cdn دى خاصة بال javascript
+we use code webkit-text-stroke: px color;
+بشرط وضع color: transparent after this code
+lightbox2 libirary
